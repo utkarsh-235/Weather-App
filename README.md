@@ -57,7 +57,8 @@ A simple and visually appealing weather application built using **React.js**. Th
 ## Screenshots
 
 ### Weather Display!
-(https://github.com/user-attachments/assets/4834928f-52fb-4ebe-9322-4bcec45eee20)
+
+https://github.com/user-attachments/assets/4834928f-52fb-4ebe-9322-4bcec45eee20
 
 
 ## Future Improvements
